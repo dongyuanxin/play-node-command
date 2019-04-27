@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "commander": "^2.20.0",
+    "inquirer": "^6.3.1"
+  },
+  "bin": {
+    "app": "app"
+  }
+}
