@@ -2,7 +2,8 @@
   "dependencies": {
     "chalk": "^2.4.2",
     "commander": "^2.20.0",
-    "inquirer": "^6.3.1"
+    "inquirer": "^6.3.1",
+    "ora": "^3.4.0"
   },
   "bin": {
     "app": "app"
